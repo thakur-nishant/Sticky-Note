@@ -1,0 +1,19 @@
+{
+  "name": "sticky-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "vinyl": "^2.1.0"
+  }
+}
