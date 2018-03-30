@@ -1,4 +1,4 @@
-![](http://i.imgur.com/5Bqs5zi.png)
+![](https://reactjs.org/logo-og.png)
 
 ## Setting up Gulp (optional)
 
